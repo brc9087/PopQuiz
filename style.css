@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+    font-size: 16px;
+}
+
+#timer {
+    font-size: 50px;
+    text-align: center;
+}
+
+#question {
+    font-size: 40px;
+    font-weight: 200px;
+    text-align: center;
+}
+
+#option-list {
+    font-size: 20px;
+    text-align: center;
+}
+
+#question-result {
+    font-size: 80px;
+    color: red;
+    font-weight: 500px;
+    text-decoration: underline;
+    text-align: center;
+}
