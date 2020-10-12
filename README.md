@@ -9,3 +9,6 @@ Most of the work was completed in new file called script.js
 7. Function render question then function next quesiton.
 8. Function check_answer - checks if answer is correct, Notify the user if their response is correct/wrong, Update the correctCount if necessary, wait 2 seconds and call next question.
 9. Add event listener - when one of choice li is clicked, check_answer function is called 
+<img src="./assets/correct.jpg" alt="">
+<img src="./assets/highscore.jpg" alt="">
+<img src="./assets/nameinput.jpg" alt="">
