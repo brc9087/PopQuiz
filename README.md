@@ -10,34 +10,32 @@ The user's score and initials are then saved after which the high scores will be
 Also provide a link straight to viewing the high scores page.
 
 ## Usage / Directions
-* Click the link to find the Employee https://brc9087.github.io/myapp/
+* Click the link to test that brain on NBA Knowledge ==> https://brc9087.github.io/myapp/
 --
-## Sorting Table by Name
-* ![](./public/images/NameSorted.JPG )
+## HOME PAGE
+* ![](./images/homepage.PNG )
 
 <br>
 
-## Home Page 
-* ![](./public/images/homePageEmployee.JPG )
+## QUIZ START / TIMER
+* ![](./images/quizstart.PNG )
+* ![](./images/timer.PNG )
 
 <br>
     
     
-## Search for Employee
-*  ![](./public/images/SearchOption.JPG )
+## HIGH SCORE PAGE
+*  ![](./images/highscore.PNG )
 
 <br>
 
 ## Tools Used / Dependancies
 --
-* React
-* API
-* state
-* React hooks
-* The Context API
-* JS
+* HTML
+* CSS
+* JQUERY
 * Github
-* images
+* JS
 
 ## Links
 * https://brc9087.github.io/myapp/
