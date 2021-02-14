@@ -10,7 +10,7 @@ The user's score and initials are then saved after which the high scores will be
 Also provide a link straight to viewing the high scores page.
 
 ## Usage / Directions
-* Click the link to test that brain on NBA Knowledge ==> https://brc9087.github.io/myapp/
+* Click the link to test that brain on NBA Knowledge ==> https://brc9087.github.io/PopQuiz/
 --
 ## HOME PAGE
 * ![](./images/homepage.PNG )
@@ -38,5 +38,5 @@ Also provide a link straight to viewing the high scores page.
 * JS
 
 ## Links
-* https://brc9087.github.io/myapp/
-* https://github.com/brc9087/EmployeeReactDirectory
+* APP: https://brc9087.github.io/PopQuiz/
+* REPO: https://github.com/brc9087/PopQuiz
